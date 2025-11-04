@@ -609,7 +609,7 @@ html {
 #questionbox {
   position: absolute;
   margin: 0 auto;
-  background-color: none;
+  background-color: transparent;
   color: white;
   border: 2px solid grey;
   top: 45%;
@@ -626,3 +626,4 @@ html {
   z-index: 0;
 
 }
+
