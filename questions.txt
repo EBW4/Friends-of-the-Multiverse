@@ -1,0 +1,44 @@
+If your life had the aesthetic of a movie genre, what would it be? | [Parallel Dimension, D1, EA, “Options: Film noir (Detectives), Animated, Comedy, Fantasy/Science Fiction”]
+
+“If your relationship with your best friend were a relationship between two animals, what animals would you be?” | [Parallel Dimension, 2, YCWA]
+
+“If you were an aquatic animal, what would you be?” | [Parallel Dimension, D1, EA, “Options: Dolphin, Turtle, Whale, Shark”]
+
+“If you were a land animal, what would you be?” | [Parallel Dimension, D1, EA, ‘Options: Lion, Snake, Fox, Horse, Bear’]
+
+“If you were a flying animal, what would you be?” | [Parallel Dimension, D1, EA, ‘Options: Eagle, Butterfly, Swallow, Condor’]
+
+“If you were going to a medieval war, what colours would your armour be? What weapons would you carry? What would be your role in the war?” | [Fantasy, D3, YCWA]
+
+“If you had a cabin anywhere in the world, what is the first thing you'd see when you go out? |  [Parallel Dimension, D3, YCWA,  ‘Options: Beach, Prairie, Forest/Jungle, Lake, Mountains’]
+
+“If you had a cabin anywhere in the world, what would the inside be like?” | [Parallel Dimension, D1, YCWA]
+
+“If your love life were a movie, what genre would it be?” | [Parallel Dimension, D2, EA, ‘Options: A musical, A romantic comedy, A tragicomedy, A spy movie’]
+
+“If this table were a detective novel - Who would be the detective? Who would be the murderer? Who would be the victim?” | [Crime, D3, YCWA]
+
+“If you could change one historical event, what would it be?” | [Past, D, YCWA] 
+
+“If you could be born in another era and have any role in it, when would you like to be born and who would you like to be?” | [Parallel Dimension, D3, YCWA]
+
+“If you were the captain of a pirate ship - Who at this table would be your second-in-command? Who would start a mutiny? Who would be your best soldier?” |  [Fantasy, D3, YCWA]
+
+“I’m about to face someone in a sword duel, who at this table would I least want to fight?” |  [Fantasy, D2, YCWA]
+
+“If you could create a law that applies to the entire world, what would it be?” |  [Parallel Reality, D2, EA]
+
+“If you could control one element of nature, which would it be?” |  [Fantasy, D1, EA, ‘Options: Fire, Water, Earth, Air’]
+
+“If you could have the skills to play one sport professionally, what would it be?” | [Parallel Reality, D1, EA, “Options: Soccer, Rhythmic Gymnastics, Boxing, Basketball, Rock Climbing”]
+
+“If I was one musical instrument when happy and another when sad, what would I be in each case?” | [Parallel Reality, D3, EA]
+
+“A zombie apocalypse begins and you must equip yourself with items from your house. What would you take? (Minimum 3, maximum 5)” | [Zombies, D3, EA]
+
+“If I could try any experience in the world just once, with no consequences (positive or negative), what would I choose?” | [Parallel Reality, D1, EA]
+
+“If your dark side were represented by a monster or villain from fiction or legend, which would it be?” | [Fantasy, D3, EA, “Options: Vampire, Ghost, Zombie, Werewolf, Witch, Criminal”]
+
+“If I could be a resident of a fictional world, which fictional world would it be?” | [Fantasy, D1, EA]
+
