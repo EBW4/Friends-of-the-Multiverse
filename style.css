@@ -600,6 +600,7 @@ html {
   margin: 0 auto;
   text-align: center;
   transform: translate(-50%, -50%);
+  z-index: 10;
 }
 
 .button:hover {
@@ -626,4 +627,5 @@ html {
   z-index: 0;
 
 }
+
 
