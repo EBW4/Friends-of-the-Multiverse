@@ -1,2 +1,2 @@
 # Friends-of-the-Multiverse
-A friendly conversation-style came with interesting questions
+A friendly conversation-style game with interesting questions
