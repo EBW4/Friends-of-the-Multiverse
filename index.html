@@ -26,7 +26,7 @@
       fetch('questions.txt')
         .then(response => response.text())
         .then(data => {
-          questions = data.split('\n').filter(line => line.trim() !== '');
+          questions = data.split('\n').map(line => line.split('|')[0].trim()).filter(line => line.trim() !== '');
         })
         .catch(error => console.error('Error loading questions:', error));
 
@@ -39,4 +39,5 @@
     </script>
   </body>
 </html>
+
 
