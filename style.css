@@ -1,6 +1,6 @@
 html {
   height: 100dvh;
-  width: 100dvw;
+  width: 100vw;
   overflow: hidden;
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
   position: fixed;
@@ -572,7 +572,7 @@ html {
 
 .content {
   height: 100dvh;
-  width: 100dvw;
+  width: 100vw;
   display: grid;
   grid-template-rows: auto 1fr auto;
   justify-items: center;
@@ -639,6 +639,7 @@ html {
   height: 100vh;
   z-index: 0;
 }
+
 
 
 
